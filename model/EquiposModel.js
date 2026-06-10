@@ -35,8 +35,6 @@ export const Equipos = sequelize.define(
     },
     {
         tableName: 'Equipos',
-    }, 
-    {
         timestamps: false
     });
 
